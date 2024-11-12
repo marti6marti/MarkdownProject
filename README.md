@@ -11,3 +11,5 @@ Aquesta es la tasca 2, el projecte consisteix en aprendre Git i Github.
 ■ License
 
 [Documentación oficial de Git](https://git-scm.com/doc)
+
+![Project Logo](images/logo.jpg)
