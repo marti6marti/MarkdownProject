@@ -1,6 +1,7 @@
 # MarkdownProject# Markdown and Git Homework
 
 Aquesta es la tasca 2, el projecte consisteix en aprendre Git i Github.
+Aquesta linea es considerada un petit canvi 
 
 ## Table of Contents
 
