@@ -1,0 +1,118 @@
+commit 1271b5e17cf543515768d90c43bd33612cd08bae
+Merge: 74d7694 ad54934
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Thu Nov 21 00:06:28 2024 +0100
+
+    Merge pull request #2 from marti6marti/feature/1-contribution-guidelines
+    
+    Resolves #1
+
+commit ad54934229bc736cecb69da3500b8d8b564dc5b3
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Wed Nov 20 22:35:30 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 47 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 47 insertions(+)
+
+commit 74d76949097179ad140c4d6568ffa37e10c6d609
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Wed Nov 20 21:48:46 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7f7570e66a9dde7f5d4ab30cda963a6a5eff6717
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Wed Nov 20 21:39:18 2024 +0100
+
+    Add validation 1 file
+
+ .gitignore      | 3 +--
+ validation1.txt | 0
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+
+commit 3e8f0fdce4d53817083d8a43cf2925223237a548
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 19 10:04:35 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit bf47e8417cfaa4f59814ebd2b340465cf4fde106
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 19 09:41:39 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 24 +++++++++++++++++++-----
+ 1 file changed, 19 insertions(+), 5 deletions(-)
+
+commit dba91cae8004159dea1f27adb6f4cb1d2e98f78a
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 10:32:34 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 93253151eee9f6da859b5ca35eb9eca4b227f19c
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 10:25:22 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.jpg | Bin 0 -> 23046 bytes
+ 2 files changed, 2 insertions(+)
+
+commit f146643f7c1b0daec2e23ffa71382de2755c2d47
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 10:19:33 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 064b9b5dbde07f1c2a1d50efd8215be9dd3d3499
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 09:51:47 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit b4d8411443aa132f07aeda5fd15069e74cd95543
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 09:47:57 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 6a970243d384e1ea3380378e9fb5218dcf670b65
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 09:43:21 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 0273fed7a833dee5fdd16f9467910f8337d977c0
+Author: marti6marti <41652609t@iespoblenou.org>
+Date:   Tue Nov 12 09:26:40 2024 +0100
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
